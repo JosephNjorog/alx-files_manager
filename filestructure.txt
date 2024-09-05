@@ -1,0 +1,17 @@
+|-- README.md
+|-- babel.config.js
+|-- controllers
+    |-- AppController.js
+    |-- AuthController.js
+    |-- FilesController.js
+    |-- UsersController.js
+|-- package-lock.json
+|-- package.json
+|-- routes
+    |-- index.js
+|-- server.js
+|-- utils
+    |-- auth.js
+    |-- db.js
+    |-- redis.js
+|-- worker.js
